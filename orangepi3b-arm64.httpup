@@ -1,5 +1,5 @@
 #
-# /etc/ports/orangepi3b-arm64.httpup: CRUX-ARM aarch64 ports overlay for RK3566
+# /etc/ports/orangepi3b-arm64.httpup: CRUX-ARM aarch64 ports overlay for Orangepi3b
 #
 
 ROOT_DIR=/usr/ports/orangepi3b-arm64

@@ -11,7 +11,7 @@ f:1ebbd3e34237af26da5dc08a4e440464:COPYING
 f:0e1717fd1eeb62d8fce0c23682e9b337:pkgutils/.footprint
 f:ac0c8edcc676872e8b3e0fbe99ac52b0:pkgutils/.signature
 f:9693592850d40079557552217619265b:pkgutils/Pkgfile
-f:8bd7135ab45a7b291529eebf286932a5:orangepi3b-arm64.httpup
+f:ff376523fe726981d632091d5e2838af:orangepi3b-arm64.httpup
 f:939e6f38e938a2ba615e76f40b504c79:ports/xorg.rsync
 f:9f78c3a7a6824000932f50de79e2898e:ports/core-arm64.httpup
 f:0d1f1fde50a9bd743d9cac6b235f038c:ports/opt.pub
