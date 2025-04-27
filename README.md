@@ -15,7 +15,7 @@ You may want to list it first in `/etc/prt-get.conf` to take advantage of ports 
 ###
 
 # note: the order matters: the package found first is used
-prtdir /usr/ports/rrk3566-arm64
+prtdir /usr/ports/rk3566-arm64
 prtdir /usr/ports/core-arm64
 prtdir /usr/ports/opt-arm64
 prtdir /usr/ports/xorg-arm64
