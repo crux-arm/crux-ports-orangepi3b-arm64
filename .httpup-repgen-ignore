@@ -1,0 +1,7 @@
+README.md
+\.git*
+^rk3566\-arm64\.httpup
+*~
+\.*~
+*work
+*.pkg.*

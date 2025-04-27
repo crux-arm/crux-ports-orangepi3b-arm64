@@ -1,0 +1,8 @@
+#
+# /etc/ports/rk3566-arm64.httpup: CRUX-ARM aarch64 ports overlay for RK3566
+#
+
+ROOT_DIR=/usr/ports/rk3566-arm64
+URL=https://raw.githubusercontent.com/crux-arm/crux-ports-rk3566-arm64/3.8/
+
+# End of file
