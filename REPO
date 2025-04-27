@@ -3,8 +3,8 @@ d:pkgutils
 d:ports
 f:077fea960d8a490412eed744ce9bcc40:prt-get/.footprint
 f:ac750b56369121ca6aad64dd4c03671b:prt-get/prt-get.aliases
-f:0affa27bb7f4a0d574e886112891e75c:prt-get/prt-get.conf
-f:fc5e5bc2d3bc88f6340a4f34a82cb4ca:prt-get/.signature
+f:ecaeb67739a8667265597406cb0abffc:prt-get/prt-get.conf
+f:e9ada8a1086b8910fea16b9b2160ecc9:prt-get/.signature
 f:cb96c46c2cf16e2a2f1f13f29f5faab3:prt-get/README
 f:fba3b19b1f9ef72c722360b8cfd73c3d:prt-get/Pkgfile
 f:1ebbd3e34237af26da5dc08a4e440464:COPYING
