@@ -1,0 +1,6 @@
+untrusted comment: verify with /etc/ports/rk3566-arm64.pub
+RWT9HnBgaz4NfgilLjsf4caeF1eVygy9C1ZWhj2wyqtD3cOjdX51kJE7aw3hdoSVTjqYKTCvq+/Z4p+iiYtDDyBEhQTkOwSaIw8=
+SHA256 (Pkgfile) = def07be96d74a4f5d2df54acd0a0f0c48f5c25b4845196abffd1d886337bc59d
+SHA256 (.footprint) = 7d143f18f63bba5569d729eefd0d0f04ae4b0539f8bd71f9cfd6955b9e7c639d
+SHA256 (pkgutils-5.40.11.tar.xz) = 926f98704e72d9dbfae156f60ea26d97a1c7d703a36f3db2f57e553b2bdfacb6
+SHA256 (pkgmk.conf) = b633d69e9c5ca604a170b44395b9dd8f3c847e52970b3c82edaa84a82d193624
