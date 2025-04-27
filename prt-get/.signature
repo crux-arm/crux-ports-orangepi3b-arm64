@@ -1,0 +1,7 @@
+untrusted comment: verify with /etc/ports/rk3566-arm64.pub
+RWT9HnBgaz4NfuJJWvpOyZ4KXXoreZw6Cz4blsKRwakouOPip+ql7d11gMAdQGLJ9FEzmj8Fzq21I3UutU6d4fTUURftW89h0gU=
+SHA256 (Pkgfile) = ade6ded9ff960ea4ab6301beb05a102cc78ac9f948bc2e5360724c11b067736f
+SHA256 (.footprint) = 26802764ae3ae1e1a73ea56c859b3415e250a72ea444af410381df8c8f5d3ac8
+SHA256 (prt-get-5.19.6.tar.xz) = 6ea89df308e19a6239f260c91036805cd2063d0cd24a7427235849634dd49f0d
+SHA256 (prt-get.conf) = 979b3d737cc7bfd5146902a15dfe3145571cfb575236a4ff241a52938eb6821a
+SHA256 (prt-get.aliases) = 2603ea52a4dd4263898b2ca5219b19963e84714c990c5fa80dcc0a82d2dd65e5
