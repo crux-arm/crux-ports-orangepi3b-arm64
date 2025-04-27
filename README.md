@@ -1,6 +1,6 @@
 # crux-ports-orangepi3b-arm64
 
-CRUX-ARM aarch64 ports overlay for Orangepi 3b
+CRUX-ARM aarch64 ports overlay for Orangepi3b
 
 To use these ports, download the `orangepi3b-arm64.httpup` file to `/etc/ports`:
 ```

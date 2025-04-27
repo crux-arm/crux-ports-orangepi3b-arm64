@@ -1,0 +1,8 @@
+#
+# /etc/ports/orangepi3b-arm64.httpup: CRUX-ARM aarch64 ports overlay for Orangepi 3b
+#
+
+ROOT_DIR=/usr/ports/orangepi3b-arm64
+URL=https://raw.githubusercontent.com/crux-arm/crux-ports-orangepi3b-arm64/3.8/
+
+# End of file
