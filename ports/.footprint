@@ -11,8 +11,8 @@ drwxr-xr-x	root/root	etc/ports/drivers/
 -rw-r--r--	root/root	etc/ports/opt-arm64.pub
 -rw-r--r--	root/root	etc/ports/opt.pub
 -rw-r--r--	root/root	etc/ports/opt.rsync
--rw-r--r--	root/root	etc/ports/rk3566-arm64.httpup
--rw-r--r--	root/root	etc/ports/rk3566-arm64.pub
+-rw-r--r--	root/root	etc/ports/orangepi3b-arm64.httpup
+-rw-r--r--	root/root	etc/ports/orangepi3b-arm64.pub
 -rw-r--r--	root/root	etc/ports/xorg-arm64.httpup
 -rw-r--r--	root/root	etc/ports/xorg-arm64.pub
 -rw-r--r--	root/root	etc/ports/xorg.pub

@@ -1,7 +1,7 @@
-untrusted comment: verify with /etc/ports/rk3566-arm64.pub
-RWT9HnBgaz4NfjkEONmhp8V9yUxHE5eeaw1cKmZwq31rGY86wABMm9F9VQYKlj/MWJJxDRxccjGuEbkkCaooyrvuQ2bsytp+ngk=
-SHA256 (Pkgfile) = 3dcd905c81f0a268a6cdb4e3e1a1489d02bf36adb373016fdc8c4316ce4aa23f
-SHA256 (.footprint) = 091baf9fa6a6a3b8c19b6e552b660b7c8514e0d708b59a6c79f5779e4b42113b
+untrusted comment: verify with /etc/ports/orangepi3b-arm64.pub
+RWSoZOJu3hETu1RBVhqpj1qeeAbjngwboJb6yizzgEz0SHW8u185PRuNSGE7xwo7MOLQUBLQL6lxQCIhU1/PnqJBLRrOol9+Hws=
+SHA256 (Pkgfile) = 8dda34f651dc4054a7c28401684de23a51fff8da92000222b7bf2263fcbab7d3
+SHA256 (.footprint) = 91cae49dacd8d2d6134954e31136f9e973af36aefbde752d233d1cca2971e91a
 SHA256 (ports-1.6.tar.gz) = 8b2ba48e7440f4a71fa1c9c480a1212ce87c623e1d33121eb660829ba294ca94
 SHA256 (core.pub) = 5a08b7f21fb1768b9e639da0b768edb536de0590b75e663dab6d185617613791
 SHA256 (opt.pub) = 4711f488546c38cdec792c1f16b3bf7c4db0c7dc0c3cdab0ecdd85e2c7247ae5
@@ -17,5 +17,5 @@ SHA256 (opt-arm64.httpup) = 487e8248c515efb07213cf0971b9d38d28778594fbb078f135d5
 SHA256 (opt-arm64.pub) = c079759a335314f26bc027856981a00f1251b3e6d782ae7317396e3908d9a9ee
 SHA256 (xorg-arm64.httpup) = 179f10e4896f12e7e022299971cade9d2b0da670763686dfaf303978a1d16bcc
 SHA256 (xorg-arm64.pub) = 1f54f0323e0f32fae1d9b6ef0e9f09a034ce4e39ebb36db59bcb5c2829ac62f5
-SHA256 (rk3566-arm64.httpup) = 0f15a7a5c72a2c00afce3865ff5ba34b605582cab1c2dfd79fde38b6783c44aa
-SHA256 (rk3566-arm64.pub) = 2c1b101bfad972f797f837e748ede5f335e903d9806063ebcdaef63497d8067d
+SHA256 (orangepi3b-arm64.httpup) = c9c0d73a79ac85b4727e6106761a99726a541bf43a0129deb053bcf11e966424
+SHA256 (orangepi3b-arm64.pub) = 0da5c7ef58e70644c06080b421237b2e3ead46ee3d0b07cf7a900b5004712154

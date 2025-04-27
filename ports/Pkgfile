@@ -13,7 +13,7 @@ source=(http://crux.nu/files/tools/ports/$name-$version.tar.gz \
         core-arm64.httpup core-arm64.pub \
         opt-arm64.httpup opt-arm64.pub \
         xorg-arm64.httpup  xorg-arm64.pub
-        rk3566-arm64.httpup rk3566-arm64.pub)
+        orangepi3b-arm64.httpup orangepi3b-arm64.pub)
 
 build () {
   cd $name-$version
