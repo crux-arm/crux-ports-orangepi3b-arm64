@@ -1,0 +1,3 @@
+host=crux.nu
+collection=crux-arm/orangepi3b-arm64/3.8/
+destination=/usr/ports/orangepi3b-arm64

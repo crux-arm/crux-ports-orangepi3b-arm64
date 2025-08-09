@@ -6,19 +6,19 @@
 
 name=ports
 version=1.6
-release=4
+release=5
 source=(http://crux.nu/files/tools/ports/$name-$version.tar.gz \
       	core.pub opt.pub xorg.pub contrib.pub \
         core.rsync opt.rsync xorg.rsync contrib.rsync.inactive \
-        core-arm64.httpup core-arm64.pub \
-        opt-arm64.httpup opt-arm64.pub \
-        xorg-arm64.httpup  xorg-arm64.pub
-        orangepi3b-arm64.httpup orangepi3b-arm64.pub)
+        core-arm64.rsync core-arm64.pub \
+        opt-arm64.rsync opt-arm64.pub \
+        xorg-arm64.rsync  xorg-arm64.pub
+        orangepi3b-arm64.rsync orangepi3b-arm64.pub)
 
 build () {
   cd $name-$version
   make
   make DESTDIR=$PKG MANDIR=/usr/share/man install
 
-  install -m 0644 $SRC/*.{httpup,pub,rsync,inactive} $PKG/etc/ports
+  install -m 0644 $SRC/*.{pub,rsync,inactive} $PKG/etc/ports
 }

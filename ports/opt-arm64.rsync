@@ -1,0 +1,3 @@
+host=crux.nu
+collection=crux-arm/opt-arm64/3.8/
+destination=/usr/ports/opt-arm64
