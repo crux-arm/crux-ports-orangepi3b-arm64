@@ -1,10 +1,10 @@
-# crux-ports-orangepi3b-arm64
+# orangepi3b-arm64
 
 CRUX-ARM aarch64 ports overlay for Orangepi3b
 
 To use these ports, download the `orangepi3b-arm64.httpup` file to `/etc/ports`:
 ```
-$ sudo wget -P /etc/ports https://raw.githubusercontent.com/crux-arm/crux-ports-orangepi3b-arm64/main/orangepi3b-arm64.httpup
+$ sudo wget -P /etc/ports https://git.crux.nu/crux-arm/orangepi3b-arm64/raw/branch/3.8/orangepi3b-arm64.rsync
 $ sudo ports -u orangepi3b-arm64
 ```
 
