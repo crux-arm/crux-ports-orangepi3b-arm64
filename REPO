@@ -23,7 +23,6 @@ f:c8de6584ede22f4f3d7926af65f8efc7:ports/orangepi3b-arm64.rsync
 f:6fe688b457806549c0b64f6cf6a8c7ee:ports/Pkgfile
 f:92891482d508900cd6208bdad41f549d:ports/opt.rsync
 f:9a7ec7bdf5155fbedb02b35e50420cfa:ports/core.rsync
-f:ff376523fe726981d632091d5e2838af:orangepi3b-arm64.httpup
 f:e9ada8a1086b8910fea16b9b2160ecc9:prt-get/.signature
 f:ac750b56369121ca6aad64dd4c03671b:prt-get/prt-get.aliases
 f:077fea960d8a490412eed744ce9bcc40:prt-get/.footprint
@@ -31,3 +30,4 @@ f:ecaeb67739a8667265597406cb0abffc:prt-get/prt-get.conf
 f:fba3b19b1f9ef72c722360b8cfd73c3d:prt-get/Pkgfile
 f:cb96c46c2cf16e2a2f1f13f29f5faab3:prt-get/README
 f:1ebbd3e34237af26da5dc08a4e440464:COPYING
+f:c8de6584ede22f4f3d7926af65f8efc7:orangepi3b-arm64.rsync
